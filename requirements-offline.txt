@@ -1,0 +1,16 @@
+# Core dependencies with direct download URLs
+https://files.pythonhosted.org/packages/d2/d4/2f0c5e5c3c30d9a5e1a0220527c6161fa557c52c62b1f0c1e44caa2b3780/Flask-2.3.3-py3-none-any.whl
+https://files.pythonhosted.org/packages/c7/b0/6340b130a6907e0df26632b2282c53b9ed9d0c5271c01863f710c1cc1159/Werkzeug-2.3.7-py3-none-any.whl
+https://files.pythonhosted.org/packages/d4/1b/fce5c02e42d3e12e205c6b9e1c3075103058f38ef0e4a50d01c2962e3574/pymongo-4.5.0-cp39-cp39-win_amd64.whl
+https://files.pythonhosted.org/packages/fc/e1/cd2e9773ca25fd4516b8ec70e2141c5de9f2b07ca08b8c5e0e35a29f6d4e/google_cloud_storage-2.10.0-py2.py3-none-any.whl
+https://files.pythonhosted.org/packages/8b/d1/7c89f43a3df7ee3c9d1c7b6646845e6e4278f1b0fa2c7c96fa30dce2d8c9/python_dotenv-1.0.0-py3-none-any.whl
+https://files.pythonhosted.org/packages/f5/0c/3d20739b692c7b81f4b04c5d50a6e3c6a8c91ad8e9a0c6e4bdd3613a01c7/pandas-2.1.0-cp39-cp39-win_amd64.whl
+https://files.pythonhosted.org/packages/41/4f/3c2b17fd821803bcd1af432d3caa4a0c0f1ea548a1d8c8f12bf406bf0bd4/XlsxWriter-3.1.2-py3-none-any.whl
+https://files.pythonhosted.org/packages/70/8e/0e2d847013cb52cd35b38c009bb167a1a26b2ce6cd6965bf26b47bc0bf44/requests-2.31.0-py3-none-any.whl
+https://files.pythonhosted.org/packages/8c/ae/3af7d006aacf513975fd1948a6b4d72456d8803882f7bbd4437070eb0651/bcrypt-4.0.1-cp39-cp39-win_amd64.whl
+https://files.pythonhosted.org/packages/2e/09/d85d4f9de84965f402f81f6f25436a435f0c4d3c30e4b67fc4a7e3f8c0f9/pytz-2023.3-py2.py3-none-any.whl
+
+# Development dependencies
+https://files.pythonhosted.org/packages/85/0d/fe7c40fdac5c9d3f9c3c68c70c02f9e4f0f69c876fdec7f5c0c5c766a891/pytest-7.4.2-py3-none-any.whl
+https://files.pythonhosted.org/packages/19/d0/d1a25d46aaf010ac8d7fb42129838c2de424a2c75a9933d72a0e99f9c52e/black-23.7.0-cp39-cp39-win_amd64.whl
+https://files.pythonhosted.org/packages/d2/d4/f4b6b6f4e4863004d6c98b40d1e398d6d57d2a5d0c42c66e96e7c52f5013/flake8-6.1.0-py2.py3-none-any.whl 
